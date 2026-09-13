@@ -1,13 +1,3 @@
-# Hi there, I'm Dev00pansa 👋
-
-> **16-year-old Full Stack Developer from Thailand | Building the future of AI & Marketplace Systems.**
-
-### 🛠️ My Arsenal
-- **Languages:** Lua, TypeScript, Python, C++, SQL
-- **Tech Stack:** Next.js, Node.js, PostgreSQL
-- **Systems:** Arch Linux (Hyprland), Semiconductor Logic Research
-- **Interests:** Orbital Mechanics, Universal AI, Quantum Computing
-
 ### 🚀 Current Projects
 - 📦 **mQuick Marketplace** - Global developer ecosystem.
 - 🧠 **mVision AI** - Breaking language barriers through real-time AI.
