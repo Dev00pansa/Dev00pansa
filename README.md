@@ -1,7 +1,5 @@
 ### 🚀 Current Projects
-- 📦 **mQuick Marketplace** - Global developer ecosystem.
-- 🧠 **mVision AI** - Breaking language barriers through real-time AI.
-- 🌌 **Galactic Navigation** - Calculating solar system positions for the next 1000 years.
+create my game and ..... idk
 
 ### 📈 GitHub Stats
 ![Dev00pansa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dev00pansa&show_icons=true&theme=tokyonight)
