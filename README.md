@@ -1,6 +1,6 @@
 # Pansa
 
-Learning low-level programming fundamentals and building practical web applications.
+Learning low-level programming fundamentals (C, C++, C#), building practical web tools, and big fan of Gintama.
 
 <p align="center">
   <img src="./assets/banner.gif" alt="Banner" width="100%" />
@@ -8,7 +8,7 @@ Learning low-level programming fundamentals and building practical web applicati
 
 ## Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,nextjs,tailwind,supabase,vercel,git,github,vscode,visualstudio,figma,blender&perline=7" alt="My Skills" />
 </p>
 
