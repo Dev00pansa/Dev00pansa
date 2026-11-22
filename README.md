@@ -1,4 +1,4 @@
-# Pansa
+# Pansa 'hello world'
 
 Learning low-level programming fundamentals (C, C++, C#), building practical web tools, and big fan of Gintama.
 
