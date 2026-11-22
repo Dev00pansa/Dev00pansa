@@ -1,10 +1,14 @@
-### 🚀 Current Projects
-create my game and ..... idk
+# Pansa (Dev00pansa)
 
-### 📈 GitHub Stats
-![Dev00pansa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dev00pansa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dev00pansa&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev00pansa&theme=tokyonight)
+Learning programming fundamentals and building practical web tools.
 
----
-*"The best way to predict the future is to create it."*
+## Currently Learning
+
+- C / C++
+- Web Development (Next.js, TypeScript, Tailwind CSS)
+- Database (PostgreSQL, Supabase)
+
+## Featured Project
+
+- **[E-Com MarginLab (ecommerce-cloud)](https://github.com/Dev00pansa/ecommerce-cloud)** — E-Commerce Cost, Pricing, and Break-Even Calculator with Supabase Auth and Cloud Database.
+  - Live Demo: https://ecommerce-cloud-mauve.vercel.app
