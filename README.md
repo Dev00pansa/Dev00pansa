@@ -8,9 +8,7 @@ Learning low-level programming fundamentals (C, C++, C#), building practical web
 
 ## Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,nextjs,tailwind,supabase,vercel,git,github,vscode,visualstudio,figma,blender&perline=7" alt="My Skills" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,ts,nextjs,tailwind,supabase,vercel,git,github,vscode,visualstudio,figma,blender&perline=7)
 
 ## Latest work
 
