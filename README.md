@@ -12,6 +12,13 @@ Learning low-level programming fundamentals (C, C++, C#), building practical web
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,nextjs,tailwind,supabase,vercel,git,github,vscode,visualstudio,figma,blender&perline=14" height="38" alt="Tech Stack & Tools" />
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev00pansa&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" alt="Dev00pansa's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Dev00pansa&theme=tokyonight&hide_border=false&border_color=30363d" alt="Dev00pansa's GitHub Streak" />
+</p>
+
 ## Latest work
 
 - **[KhumLab (ecommerce-cloud)](https://github.com/Dev00pansa/ecommerce-cloud)** — E-Commerce cost, pricing, promo simulator, and break-even analysis web application built with Next.js 16, TypeScript, Tailwind CSS, and Supabase Cloud.
